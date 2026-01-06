@@ -1,1 +1,1 @@
-# introduction_to_algorithms
+# introduction-to-algorithms
